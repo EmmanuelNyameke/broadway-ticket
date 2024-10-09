@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\BroadwayTicket\bin\Debug\net8.0-windows\BroadwayTicket.exe
+C:\Users\HELLO\Source\Repos\BroadwayTicket\bin\Debug\net8.0-windows\BroadwayTicket.deps.json
+C:\Users\HELLO\Source\Repos\BroadwayTicket\bin\Debug\net8.0-windows\BroadwayTicket.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\BroadwayTicket\bin\Debug\net8.0-windows\BroadwayTicket.dll
+C:\Users\HELLO\Source\Repos\BroadwayTicket\bin\Debug\net8.0-windows\BroadwayTicket.pdb
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\BroadwayTicket.frmBroadway.resources
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\BroadwayTicket.Resources.resources
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\BroadwayTicket.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\BroadwayTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\BroadwayTicket.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\BroadwayTicket.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\BroadwayTicket.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\BroadwayTicket.dll
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\refint\BroadwayTicket.dll
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\BroadwayTicket.pdb
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\BroadwayTicket.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\BroadwayTicket\obj\Debug\net8.0-windows\ref\BroadwayTicket.dll
